@@ -1,4 +1,6 @@
-# IAPHeler is a simple helper for in app purchases.
+# IAPHelper
+
+A simple helper for in app purchases.
 
 ## InAppPurchases.plist
 
