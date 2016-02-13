@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>MoreCoins</string>
+		<key>Title</key>
+		<string>More Coins</string>
+		<key>ProductId</key>
+		<string>com.myapp.MoreCoins</string>
+		<key>Type</key>
+		<string>Consumable</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>RemoveAds</string>
+		<key>Title</key>
+		<string>Remove Ads</string>
+		<key>ProductId</key>
+		<string>com.myapp.RemoveAds</string>
+		<key>Type</key>
+		<string>Non-Consumable</string>
+	</dict>
+</array>
+</plist>
